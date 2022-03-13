@@ -9,6 +9,7 @@ Thanks for [**MPAndroidChart**](https://github.com/PhilJay/MPAndroidChart), when
 ## todos
 **1.potential bugs fix**
 
+
 ## Get Start
 **1.add dependencies**
 ```
