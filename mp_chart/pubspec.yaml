@@ -13,7 +13,11 @@ dependencies:
   screenshot: any
   path_drawing: any
   image_gallery_saver: any
-  optimized_gesture_detector: any
+#   optimized_gesture_detector: any
+  optimized_gesture_detector: 
+    git: 
+        url: "https://github.com/krabbenprgr/OptimizedGestureDetector.git"
+        ref: "f7df3c351eefbaf8fe38b15cd7a808eb1c23935a"
   vector_math: any
   flutter:
     sdk: flutter
